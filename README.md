@@ -1,6 +1,10 @@
-# Red Pen Edits
+# Red pen edits
 
-A cross-platform AI skill for revising **your own writing**. It makes substantive edits for clarity, structure, voice, tense, grammar, technical precision, and concision while preserving your intent and recognizable voice.
+Do you ever miss getting a draft back from your English teacher, all marked up with red pen, and clear feedback on what needs fixing? Me too.
+
+When I peer-edit with AI, I find myself frustrated with the output of my conversation. Feedback in the form of a giant word dump is hard to read. So I created a skill that gives me red pen edits for my own writing :)
+
+It makes edits for clarity, structure, voice, tense, grammar, technical precision, and concision while preserving your intent and voice.
 
 Its editing principles are informed by William Zinsser's *On Writing Well*: find the essential point, cut clutter, create unity, prefer precise words and verbs, protect the writer's voice, and treat rewriting as part of writing.
 
@@ -46,8 +50,6 @@ Add the `skills/red-pen-writing-review` folder through the Skills area in ChatGP
 - A clean revised draft
 - A standalone red-pen HTML manuscript with visible deletions, insertions, underlines, carets, and only necessary margin notes
 
-The HTML mode intentionally excludes legends, scores, cover sheets, editor summaries, track-changes controls, and decorative staging.
-
 ## Scope
 
-This skill is deliberately limited to reviewing and revising the user's own prose. It is not intended for evaluating another person's writing or drafting feedback to another writer.
+This skill is deliberately limited to reviewing and revising the user's own prose.
