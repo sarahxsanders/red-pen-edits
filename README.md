@@ -8,6 +8,8 @@ It makes edits for clarity, structure, voice, tense, grammar, technical precisio
 
 Its editing principles are informed by William Zinsser's *On Writing Well*: find the essential point, cut clutter, create unity, prefer precise words and verbs, protect the writer's voice, and treat rewriting as part of writing.
 
+<img width="1012" height="630" alt="CleanShot 2026-09-29 at 11 44 26 AM" src="https://github.com/user-attachments/assets/3b8c6352-8506-4e74-8d06-f89a39eac5b5" />
+
 ## Compatibility
 
 The canonical skill lives at [`skills/red-pen-writing-review`](skills/red-pen-writing-review).
