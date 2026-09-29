@@ -1,0 +1,4 @@
+interface:
+  display_name: "Review My Writing"
+  short_description: "Self-edit drafts with visible red-pen markup"
+  default_prompt: "Use $red-pen-writing-review to review my draft and show me the most useful edits."
